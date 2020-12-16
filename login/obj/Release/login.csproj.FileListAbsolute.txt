@@ -1,0 +1,9 @@
+C:\Users\limsuwhoan\source\repos\login\bin\Release\login.exe.config
+C:\Users\limsuwhoan\source\repos\login\bin\Release\login.exe
+C:\Users\limsuwhoan\source\repos\login\bin\Release\login.pdb
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.Form1.resources
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.Properties.Resources.resources
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.csproj.GenerateResource.cache
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.csproj.CoreCompileInputs.cache
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.exe
+C:\Users\limsuwhoan\source\repos\login\obj\Release\login.pdb
