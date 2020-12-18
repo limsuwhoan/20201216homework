@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "slip4", "slip4\slip4.csproj", "{D9138F2E-4D23-4529-945A-759FE42C18C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "newslip1", "newslip1\newslip1.csproj", "{39EFE981-7EC8-4269-BFD6-B0BEC02C9FD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9138F2E-4D23-4529-945A-759FE42C18C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9138F2E-4D23-4529-945A-759FE42C18C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9138F2E-4D23-4529-945A-759FE42C18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9138F2E-4D23-4529-945A-759FE42C18C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39EFE981-7EC8-4269-BFD6-B0BEC02C9FD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39EFE981-7EC8-4269-BFD6-B0BEC02C9FD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39EFE981-7EC8-4269-BFD6-B0BEC02C9FD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39EFE981-7EC8-4269-BFD6-B0BEC02C9FD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A7A4E6-9B08-46F7-887E-56A66E41F2D7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\bin\Debug\newslip1.exe.config
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\bin\Debug\newslip1.exe
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\bin\Debug\newslip1.pdb
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\obj\Debug\newslip1.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\obj\Debug\newslip1.exe
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\obj\Debug\newslip1.pdb
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\newslip1\obj\Debug\newslip1.csprojAssemblyReference.cache

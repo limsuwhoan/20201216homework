@@ -1,0 +1,7 @@
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\bin\Debug\slip4.exe.config
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\bin\Debug\slip4.exe
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\bin\Debug\slip4.pdb
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\obj\Debug\slip4.csprojAssemblyReference.cache
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\obj\Debug\slip4.csproj.CoreCompileInputs.cache
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\obj\Debug\slip4.exe
+C:\Users\KB\Desktop\새 폴더\20201216homework\20201217work\slip4\slip4\obj\Debug\slip4.pdb
